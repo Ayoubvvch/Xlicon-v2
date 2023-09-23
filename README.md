@@ -31,7 +31,11 @@ If you re-upload  anything from my ***REPOSITORY*** give me ***Credit*** Else I 
 
 2. Scan the QR and upload the `creds.json` to ***XLICON-SESSION*** Folder
     <br>
-<a href='https://replit.com/@ahil15/XLICON-Multi-qr?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@ahil15/XLICON-Multi-qr?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+3. Server 2 for scanning
+   <br>
+<a href='https://slasher-web-woad.vercel.app/qr-ama.html' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 ---
 
@@ -90,7 +94,7 @@ global.BotName = "X-2.0";
 
 1. Now Deploy
     <br>
-<p align="center"><a href="https://xlicon-md-psi.vercel.app/deploy.html"> <img src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<p align="center"><a href="https://slasher-web-md.vercel.app/deploy.html"> <img src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 <p align="center"><a href="https://youtu.be/HBpZB1HYoPk?si=a0-C60sieMnMX0xs"><img title="" src="https://img.shields.io/badge/heroku%20TUTORIAL-red?style=for-the-badge&logo=youtube"></a>
 
@@ -207,6 +211,16 @@ For our bot support, Do email [ infiniteytff@gmail.com ] or join our Whatsapp Su
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
  
+ 
+ 
+ ## Special Thanks To
+- 1. 🚩 Kai ( Bot Base )
+- 2. 🚩 Abhishek ( External Modifications and upgrades )
+- 3. 🚩 Guru ( Web modification and ideas )
+- 4. 🚩 Diegoson ( Web Qr design and modification )
+- 5. 🚩HYNO (web bug fixes and maintain)
+- 6. 🚩SamPandey ( web Base )
+---------
 
 
 <h1 align="center">
