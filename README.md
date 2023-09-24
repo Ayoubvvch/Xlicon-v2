@@ -2,7 +2,7 @@
 <a href="https://github.com/ahil15"><img title="Author" src="https://img.shields.io/badge/CREATOR-Nᴏᴛ Sʟᴀꜱʜᴇʀ-black.svg?style=for-the-badge&logo=github"></a>
 
 <p align="center">  
-  <a href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2">
+  <a href="https://slasher-web-woad.vercel.app/">
     <img alt="X-2.0" height="300" src="https://i.ibb.co/L1SGhJy/images.jpg">
     
   </a>
@@ -33,7 +33,7 @@ If you re-upload  anything from my ***REPOSITORY*** give me ***Credit*** Else I 
     <br>
 <a href='https://replit.com/@ahil15/XLICON-Multi-qr?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-3. Server 2 for scanning
+3. Don't use server 2 it's currently under working.. We will notify u when it's ready
    <br>
 <a href='https://slasher-web-woad.vercel.app/qr-ama.html' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
@@ -101,7 +101,7 @@ global.BotName = "X-2.0";
 ---
 ## DEPLOY TO Codespaces
 
-1. Now Deploy
+2. Now Deploy
     <br>
 <p align="center"><a href="https://github.com/codespaces/new"> <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
@@ -109,7 +109,7 @@ global.BotName = "X-2.0";
 
 ## DEPLOY TO Railway
 
-2. Now Deploy
+3. Now Deploy
     <br>
 <p align="center"><a href="https://railway.app/new"> <img src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
@@ -117,7 +117,7 @@ global.BotName = "X-2.0";
 
 ## DEPLOY TO Mongenius
 
-3. Now Deploy
+4. Now Deploy
     <br>
 <p align="center"><a href="https://studio.mogenius.com/"> <img src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=black&style=for-the-badge&logo=genius"></a>
 
@@ -125,7 +125,7 @@ global.BotName = "X-2.0";
 
 ## DEPLOY TO Render
 
-4. Now Deploy
+5. Now Deploy
     <br>
 <p align="center"><a href="https://dashboard.render.com"> <img src="https://img.shields.io/badge/DEPLOY RENDER-h?color=black&style=for-the-badge&logo=render"></a>
 
